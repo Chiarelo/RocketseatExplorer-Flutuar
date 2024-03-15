@@ -24,4 +24,4 @@
 Esse projeto possui licença MIT.
 
 #Projeto Online
-Você pode visualizar o projeto online através <a style="border: none;" href="https://chiarelo.github.io/Desafio02-ExplorerRocketseat/" target="_blank">desse link</a>.
+Você pode visualizar o projeto online através <a style="border: none;" href="https://chiarelo.github.io/RocketseatExplorer-Flutuar/" target="_blank">desse link</a>.
